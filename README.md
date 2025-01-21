@@ -1,2 +1,2 @@
-# Python
-Python code repository for the 100 Days of Code Course
+# 🚀 Python
+This repository contains code and scripts developed during the **100 Days of Code - The Complete Python Bootcamp** course. Throughout the 100 days, you will find a variety of projects, challenges, and hands-on exercises that cover different aspects of Python programming.

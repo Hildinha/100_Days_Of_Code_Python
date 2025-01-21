@@ -1,8 +1,6 @@
 # 🐍 Python
 
 ![Status](https://img.shields.io/badge/Project%20Status-In%20Development-orange?style=flat-square&logo=github)
-![Status](https://img.shields.io/badge/Status-In%20Development-yellow)
-
 ![Last Commit](https://img.shields.io/github/last-commit/Hildinha/100_Days_Of_Code_Python)
 ![Days Completed](https://img.shields.io/badge/Days%20Completed-2%2F100-blue)
 ![Repo Size](https://img.shields.io/github/repo-size/Hildinha/100_Days_Of_Code_Python?color=blue)

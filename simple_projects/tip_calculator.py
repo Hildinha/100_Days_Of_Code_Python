@@ -1,4 +1,4 @@
-# This is a simple python script that was made at 100 Days Of Code on day 2
+# This is a simple python script that was made in 100 Days Of Code Couse on day 2
 print("Welcome to the tip calculator.")
 total_bill = float(input("What was the total bill? $"))
 tip_percentage = int(input("How much tip would you like to give? 10, 12, or 15? "))

@@ -1,2 +1,2 @@
-# python
-Repositório de códigos Python
+# Python
+Python code repository for the 100 Days of Code Course

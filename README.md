@@ -12,5 +12,5 @@ This repository contains code and scripts developed during the 100 Days of Code 
 
 ## 📜 List of Scripts
 
-1.  **[Day 01 - Band Name Generator](simple_projects/band_name_generator.py)**: Um script simples que gera nomes de bandas com base na entrada do usuário.
+1.  **[Day 01 - Band Name Generator](simple_projects/band_name_generator.py)**: A simple script that generates band names based on user input.
 2.  **[Day 02 - Tip Calculator](simple_projects/tip_calculator.py)**: A program to calculate tips and split bills between friends.

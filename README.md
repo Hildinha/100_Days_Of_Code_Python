@@ -1,4 +1,4 @@
-# 🐍 Python
+# 🐍 100 Days of Code Python Course
 
 ![Status](https://img.shields.io/badge/Project%20Status-In%20Development-orange?style=flat-square&logo=github)
 ![Last Commit](https://img.shields.io/github/last-commit/Hildinha/100_Days_Of_Code_Python)

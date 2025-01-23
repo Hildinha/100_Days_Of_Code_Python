@@ -14,3 +14,4 @@ This repository contains code and scripts developed during the 100 Days of Code 
 
 1.  **[Day 01 - Band Name Generator](simple_projects/band_name_generator.py)**: A simple script that generates band names based on user input.
 2.  **[Day 02 - Tip Calculator](simple_projects/tip_calculator.py)**: A program to calculate tips and split bills between friends.
+3.  **[Day 03 - Treasure Island](simple_projects/treasure_island.py)**: A program where the user has to make choices to reach the treasure room. 

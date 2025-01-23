@@ -2,7 +2,7 @@
 
 ![Status](https://img.shields.io/badge/Project%20Status-In%20Development-orange?style=flat-square&logo=github)
 ![Last Commit](https://img.shields.io/github/last-commit/Hildinha/100_Days_Of_Code_Python)
-![Days Completed](https://img.shields.io/badge/Days%20Completed-2%2F100-blue)
+![Days Completed](https://img.shields.io/badge/Days%20Completed-3%2F100-blue)
 ![Repo Size](https://img.shields.io/github/repo-size/Hildinha/100_Days_Of_Code_Python?color=blue)
 ![Python](https://img.shields.io/badge/Python-3.11.9-yellow?logo=python&logoColor=white)
 

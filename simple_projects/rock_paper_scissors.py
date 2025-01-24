@@ -66,7 +66,7 @@ if question == "scissors":
     print(random_list)
     if random_list == "rock":
         print(Rock)
-        print("\nYpu Loose!")
+        print("\nYou Loose!")
     elif random_list == "paper":
         print(Paper)
         print("\nYou Win!")

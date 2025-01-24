@@ -35,7 +35,6 @@ random_list = random.choice(list)
 if question == "rock":
     print(Rock)
     print("Computer Chose:\n")
-    print(random_list)
     if random_list == "rock":
         print(Rock)
         print("\nDraw!")
@@ -46,10 +45,9 @@ if question == "rock":
         print(Scissors)
         print("\nYou Win!")
 
-if question == "paper":
+elif question == "paper":
     print(Paper)
     print("Computer Chose:\n")
-    print(random_list)
     if random_list == "rock":
         print(Rock)
         print("\nYou Win!")
@@ -60,13 +58,12 @@ if question == "paper":
         print(Scissors)
         print("\nYou Loose")
 
-if question == "scissors":
+elif question == "scissors":
     print(Scissors)
     print("Computer Chose:\n")
-    print(random_list)
     if random_list == "rock":
         print(Rock)
-        print("\nYou Loose!")
+        print("\nYpu Loose!")
     elif random_list == "paper":
         print(Paper)
         print("\nYou Win!")
